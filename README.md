@@ -142,7 +142,7 @@
 | [可爱小七海语音♥](https://github.com/Soung2279/NANA7MI_REC) | [@Soung2279](https://github.com/Soung2279) | 是 可爱小七海 的语音♥~~ 群聊中发送 七海Nana7mi 有关的 切片语音/古神语/怪话合集/各种不能转的二创 |2021-10-30 12:19:10|
 | [hoshino广播再进化](https://github.com/azmiao/broadcast-plus-plus) | [@azmiao](https://github.com/azmiao) | 注：这个不是插件！直接拿[@冷雷佬](https://github.com/ColdThunder11)的东西改的，欸嘿嘿，我是不是很机智 |2022-09-06 17:26:34|
 | [生草图片生成器](https://github.com/BlueDeer233/image_generator) |[@BlueDeer233](https://github.com/BlueDeer233) | 集成了多种图像生成器的插件|2022-05-07 21:05:21|
-| [网易云音乐直链下载](https://github.com/haha114514/netease_down) <!--cont.-->|[@haha114514](https://github.com/haha114514) | 适用于HoshinoBot的获取网易云音乐歌曲下载链接|2022-01-09 23:12:02|
+| [网易云音乐直链下载](https://github.com/haha114514/netease_down) |[@haha114514](https://github.com/haha114514) | 适用于HoshinoBot的获取网易云音乐歌曲下载链接|2022-01-09 23:12:02|
 | [Tarot](https://github.com/haha114514/tarot_hoshino) | 修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy)  | 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签(灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）|2022-10-28 21:47:32|
 | [lifeRestart_bot](https://github.com/DaiShengSheng/lifeRestart_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 适用于HoshinoBot的人生重来模拟器(remake.jpg) |2021-10-06 18:53:56|
 | [LocalSetu](https://github.com/pcrbot/LocalSetu) | [@benx1n](https://github.com/benx1n) | 可协同维护图库质量的本地setu插件，支持私聊上传、自动审核、获取P站TAG、原画 |2022-07-16 02:34:21|
@@ -162,7 +162,7 @@
 | [market](https://github.com/cc004/market) | [@cc004](https://github.com/cc004) | hoshinobot的大头菜插件 |2022-01-21 16:22:53|
 | [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 |2022-12-22 09:02:54|
 | [邦邦档线预测](https://github.com/assassingyk/bandori-predict) | [@assassingyk](https://github.com/assassingyk) | BanGDream音游档线预测工具 |2022-06-15 15:58:22|
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2022-10-04 00:19:39|
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2023-02-04 14:42:16|
 | [战地 1/4/5 战绩查询](https://github.com/azmiao/bf_search) | [@azmiao](https://github.com/azmiao) | 可公开版本的 战地1 / 战地4 / 战地5 战绩信息查询插件，偷偷感谢一下冷雷佬和K-ON服服主 SuzuBucket |2021-09-29 13:17:32|
 | [A-soul发病小作文](https://github.com/RMYHY/RBot/tree/main/HoshinoBot/hoshino/modules/asill) | [@RMYHY](https://github.com/RMYHY) | 可自定义发病对象的真情实感小作文 |2022-05-26 13:17:55|
 | [本地涩图增强版](https://github.com/Soung2279/setu-local-extra) | [@Soung2279](https://github.com/Soung2279) | hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。 |2022-08-30 03:10:52|
@@ -187,7 +187,7 @@
 | [最优击剑路径](https://github.com/wosiwq/arena_route) | [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 |2021-05-15 18:59:45|
 | [赛马娘新闻播报](https://github.com/azmiao/umamusume_news) | [@azmiao](https://github.com/azmiao) | 赛马娘新闻播报插件（大佬们快去写插件，别养马了） |2022-06-19 21:16:51|
 | [今天吃什么](https://github.com/A-kirami/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 |2022-09-17 22:01:30|
-| [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) | [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音， 有文字匹配 |2021-08-20 02:15:18|
+| [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音， 有文字匹配 |2021-08-20 02:15:18|
 | [代刀私聊插件](https://github.com/sdyxxjj123/Daidao) | [@sdyxxjj123](https://github.com/sdyxxjj123) | 记录正在代刀，代挂树，暂停伤害，锁助战等 |2021-10-26 10:34:53|
 | [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |2021-04-03 16:43:58|
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |2022-08-19 10:35:41|
