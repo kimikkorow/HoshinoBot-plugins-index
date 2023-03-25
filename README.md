@@ -173,11 +173,11 @@
 | [osuv2](https://github.com/Yuri-YuzuChaN/osuv2) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件v2api版本，新的发送方式及功能 |2023-02-28 20:17:01|
 | [台服会战排名查询](https://github.com/pcrbot/clan_search_tw) | [@azmiao](https://github.com/azmiao) | 查询台服的会战排名和档线（数据来自infedg.xyz和layvtwt.top） |2022-07-29 10:22:10|
 | [大司马发病评论](https://github.com/pcrbot/dasima) | [@Soung2279](https://github.com/Soung2279) | 大司马B站发病评论查看 |2021-08-20 02:44:42|
-| [服务器信息查询](https://github.com/pcrbot/advance_check_hoshinobot) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 可快速查询bot搭载的服务器相关硬件信息 |2021-09-10 01:08:00|
+| [服务器信息查询](https://github.com/pcrbot/advance_check_hoshinobot) | [@Soung2279](https://github.com/Soung2279) | 可快速查询bot搭载的服务器相关硬件信息 |2021-09-10 01:08:00|
 | [算法竞赛开赛提醒](https://github.com/Lanly109/CodingReminder) | [@Lanly109](https://github.com/Lanly109) | 算法竞赛开赛提醒插件 |2022-11-21 20:42:46|
 | [词云](https://github.com/erweixi/wordcloud-hoshino) | [@erweixi](https://github.com/erweixi) | 基于聊天记录log而生成的词云 |2021-10-20 22:01:48|
 |[steam_crawler_bot](https://github.com/half-ghost/steam_crawler_bot)|[@half-ghost](https://github.com/half-ghost)|steam爬虫插件，拥有的功能为：以steam和小黑盒官网作为数据来源，爬取游戏搜索结果、steam游戏特惠、新品等信息。以it之家为数据来源的喜加一信息爬取。|2022-02-26 15:02:31|
-| [pcr大乱斗](https://github.com/eggggi/pcr_scrimmage) | [@eggggi](https://github.com/eggggi) | 群内小游戏。选择你的角色，和群友击剑（可自定义角色） |2021-11-22 16:44:34|
+| [pcr大乱斗](https://github.com/eggggi/pcr_scrimmage) | [@eggggi](https://github.com/eggggi) | 群内小游戏。选择你的角色，和群友击剑（可自定义角色） |2023-03-21 11:26:25|
 | [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) |2022-12-07 23:48:49|
 |[积分系统(底层方法实现)](https://github.com/pcrbot/scoresystem)| [@corvo007](https://github.com/corvo007)|积分系统(底层方法实现)|2021-11-21 00:05:18|
 | [扫雷游戏](https://github.com/eggggi/mine_sweeper) | [@eggggi](https://github.com/eggggi) | 群内小游戏 |2023-01-05 11:37:39|
@@ -211,7 +211,7 @@
 | [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) | [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-11-22 21:09:39|
 | [骂我](https://github.com/zangxx66/HoshinoBot-xcwRecord#xcw再骂我一次) | [@zangxx66](https://github.com/zangxx66) | 播放 xcw 骂人语音 |2022-11-22 21:09:39|
 | [海豹杀手](https://github.com/GWYOG/GWYOG-Hoshino-plugins#9-海豹杀手pcrsealkiller) | [@GWYOG](https://github.com/GWYOG) | 禁言晒卡 |2022-09-16 01:46:14|
-| [戳一戳集卡](https://github.com/GWYOG/GWYOG-Hoshino-plugins#8-戳机器人集卡小游戏pokemanpcr) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
+| [戳一戳集卡](https://github.com/GWYOG/GWYOG-Hoshino-plugins#8-戳机器人集卡小游戏pokemanpcr) <!--cont.-->| [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
 | [反并发](https://github.com/GWYOG/GWYOG-Hoshino-plugins#7-反并发插件anticoncurrency) | [@GWYOG](https://github.com/GWYOG) | 阻止多个小游戏同时进行 |2022-09-16 01:46:14|
 | [记忆小游戏](https://github.com/GWYOG/GWYOG-Hoshino-plugins#6-公主连结记忆小游戏pcrmemorygames) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
 | [午间音乐](https://github.com/GWYOG/GWYOG-Hoshino-plugins#5-公主连结午间音乐pcrmiddaymusic) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
