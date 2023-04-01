@@ -100,7 +100,7 @@
 | [umagacha](https://github.com/assassingyk/umagacha) | [@assassingyk](https://github.com/assassingyk) | 可自动更新卡池的马娘仿真抽卡插件 |2022-04-19 14:55:50|
 | [一穿二补偿计算](https://github.com/CCA2878/Simple1kill2) | [@CCA2878](https://github.com/CCA2878) | 计算填补一穿二到底要填多少伤害。 |2022-01-25 19:34:48|
 | [群聊关键消息记录](https://github.com/CYDXDianXian/chat_count) | [@CYDXDianXian](https://github.com/CYDXDianXian) | 该插件可记录群聊中某关键字的触发次数、时间、与完整消息，并可对储存记录的消息方便的进行读取，以查看群友们都围绕该关键字说了什么 |2022-03-09 17:12:58|
-| [崩坏3UID查询](https://github.com/chingkingm/honkai_mys) <!--cont.-->| [@chingkingm](https://github.com/chingkingm) | 查询崩坏3玩家信息 |2022-08-25 22:26:05|
+| [崩坏3UID查询](https://github.com/chingkingm/honkai_mys) | [@chingkingm](https://github.com/chingkingm) | 查询崩坏3玩家信息 |2022-08-25 22:26:05|
 | [嘉心糖爬](https://github.com/qiandeng1/antiasoul) | [@qiandeng1](https://github.com/qiandeng1) | 球球嘉心糖爬出去吧（x |2022-01-16 21:59:51|
 | [疫情出行政策查询](https://github.com/SlightDust/travelpolicy_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询疫情出行政策。年关将至大家注意安全做好个人防护。 |2022-01-13 21:56:28|
 | [疫情获取](https://github.com/SlightDust/yiqing_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 获取某地疫情数据 |2022-06-10 20:32:34|
@@ -126,7 +126,7 @@
 | [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2022-09-14 22:11:20|
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2022-09-14 22:11:21|
-| [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2023-02-11 12:40:41|
+| [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2023-03-26 13:59:13|
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
 | [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
 | [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
@@ -149,7 +149,7 @@
 | [Hoshino语音增强](https://github.com/Soung2279/advance_R) | [@Soung2279](https://github.com/Soung2279) | 通过修改R.py文件，实现Hoshino使用R模块调用语音 |2021-08-26 20:24:59|
 | [AI对话](https://github.com/pcrbot/aichat) | [@HMScygnet](https://github.com/HMScygnet) | 由腾讯自然语言处理api实现的AI对话插件 |2021-09-15 21:24:47|
 | [假期查询](https://github.com/pcrbot/holiday) | [@HMScygnet](https://github.com/HMScygnet) | 用来查询假期与调休的插件 |2021-08-25 00:04:36|
-| [github仓库监控插件](https://github.com/azmiao/github_reminder) | [@azmiao](https://github.com/azmiao) | 查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引） |2023-01-21 19:17:54|
+| [github仓库监控插件](https://github.com/azmiao/github_reminder) <!--cont.-->| [@azmiao](https://github.com/azmiao) | 查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引） |2023-01-21 19:17:54|
 | [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 |2022-07-15 21:02:05|
 | [有道智云翻译](https://github.com/pcrbot/youdao_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
 | [reminder](https://github.com/assassingyk/reminder) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格自定义定时提醒插件（三点几了.jpg） |2021-10-26 13:36:15|
