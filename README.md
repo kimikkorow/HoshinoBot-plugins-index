@@ -9,19 +9,19 @@
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
 | [犯人在跳舞](https://github.com/bridgeL/criminal_dance) | [@bridgeL](https://github.com/bridgeL/) | 文字版桌游 |2023-02-15 17:23:26|
-| [ayaka小游戏合集](https://github.com/bridgeL/ayaka_games/) | [@bridgeL](https://github.com/bridgeL/) | ayaka小游戏合集 |2023-02-07 10:52:20|
+| [ayaka小游戏合集](https://github.com/bridgeL/ayaka_games/) | [@bridgeL](https://github.com/bridgeL/) | ayaka小游戏合集 |2023-04-25 10:07:16|
 | [本地抽卡](https://github.com/BeiYazi0/draw-card) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的抽卡插件，卡池中图片源自于用户上传 |2023-02-12 08:06:58|
 | [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 |2023-01-14 13:41:35|
 | [运势n合一](https://github.com/SonderXiaoming/huannai_plugin_fortune) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 超多主题，每群都可以独立设置 |2022-12-15 02:06:51|
 | [分刀查轴](https://github.com/SonderXiaoming/fendao) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 查询花舞作业并且自动分刀 |2023-01-26 05:28:47|
 | [csgo开箱](https://github.com/daycold1000/csgo-nb) | [@daycold1000](https://github.com/daycold1000) | 在群里体验gogo开箱吧！ |2022-12-18 10:46:37|
 | [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） |2022-12-11 16:11:56|
-| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | 简单魔改的AI对话chatGPT版，内有调教心得。 |2023-03-28 11:51:37|
+| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | 简单魔改的AI对话chatGPT版，内有调教心得。 |2023-04-24 22:12:45|
 | [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-14 20:13:12|
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2022-12-09 09:27:29|
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
 | [猜数字](https://github.com/daycold1000/caishuzi) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏，俗称1A2B猜谜 |2022-12-11 17:06:51|
-| [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2023-04-18 22:54:44|
+| [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2023-04-25 19:44:03|
 |[pcrjjc2魔改版](https://github.com/SonderXiaoming/pcrjjc_huannai)| [@SonderXiaoming](https://github.com/SonderXiaoming) |可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置）|2023-01-30 07:34:59|
 | [猜群友](https://github.com/BeiYazi0/groupguess) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的猜群友小游戏插件 |2022-10-20 19:47:30|
 | [ai对话免费版](https://github.com/joeyHXD/ai) | [@joey](https://github.com/joeyHXD) | 以原版ai对话为基础，默认使用[青云客](https://api.qingyunke.com)的api，不需要开通腾讯智能服务也能使用，并且加入了反并发 |2022-10-21 18:44:54|
@@ -47,18 +47,18 @@
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
 | [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
 | [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2023-04-20 14:51:19|
-| [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS |2023-03-12 21:32:59|
+| [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS |2023-04-28 14:37:13|
 | [切噜一下魔改版](https://github.com/SonderXiaoming/cherugo) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持发送语音，改自原生插件 |2022-07-23 13:23:55|
 | [今日运势多合一](https://github.com/SonderXiaoming/portune) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 融合了原神，pcr，东方，赛马娘四个主题 |2022-12-01 10:20:58|
 | [签到奖励魔改版](https://github.com/SonderXiaoming/login_bonus) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 新增40种印章，收集册，改自原生插件 |2022-08-21 15:30:31|
 | [give_me_some_heis](https://github.com/Gaylone/give_me_some_heis) | [@Gaylone](https://github.com/Gaylone)| 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 |2022-07-25 22:44:41|
 | [HosBotManagerWeb](https://github.com/pcrbot/HosBotManagerWeb) | [@LQBing](https://github.com/LQBing)[@shewinder](https://github.com/shewinder) | 由[网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager)修改而来的hoshinobot服务管理网页版，支持多cq端 |2022-07-22 16:21:40|
-| [DOTA2战绩推送](https://github.com/joeyHXD/dota2_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件 |2023-04-15 18:01:11|
+| [DOTA2战绩推送](https://github.com/joeyHXD/dota2_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件 |2023-04-22 21:29:37|
 | [PSO2NGS](https://github.com/cpms/pso2) | [@cpm](https://github.com/cpms)| 基于 [rss 订阅插件](https://github.com/zyujs/rss)魔改而来的 PSO2NGS（梦幻之星 ONLINE2 新纪元）HoshinoBot V2 插件|2023-04-21 09:18:03|
 | [每日番剧推送](https://github.com/benx1n/everyday-bangumi) | [@benx1n](https://github.com/benx1n)| 带大陆版权站的每日番剧查询和自动推送|2022-07-13 16:16:16|
 | [Daily_News](https://github.com/InSnocent/Daily_News) | [@InSnocent](https://github.com/InSnocent)| 适用于HoshinoBot的每日一句话新闻(和另一个插件采用的不一样的来源) |2022-10-20 12:20:23|
 | [明日方舟抽卡+蹲饼](https://github.com/xulai1001/akgacha) | [@库兰](https://github.com/xulai1001/) | 明日方舟抽卡-自动蹲饼-素材一图流和DPS查询 |2022-09-11 22:46:00|
-| [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 |2023-04-07 23:17:03|
+| [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 |2023-04-26 10:36:59|
 | [project sekai啤酒烧烤信息获取插件](https://github.com/FLAG250/hoshino-plugin-pjsk) | [@FLAG250](https://github.com/FLAG250)  | 适用于hoshinobot的pjsk信息查询插件 |2023-03-15 14:46:49|
 | [APEX Legends 制造器, 地图轮换查询](https://github.com/GaryDu0123/Apex_Stat_for_Hoshino) | [@GaryDu0123](https://github.com/GaryDu0123)  | 查询APEX Legends 当日(未来)地图轮换以及复制器物品 |2022-08-11 18:26:43|
 | [今日老婆](https://github.com/SonderXiaoming/dailywife) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 随机抓一位群友当老婆 |2022-06-19 13:31:31|
@@ -225,7 +225,7 @@
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
 | [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
-| [网页授权](https://github.com/pcrbot/pcr-auth-vue) <!--cont.-->| [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
+| [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
 | [clanrank](https://github.com/pcrbot/clanrank) | [@var-mixer](https://github.com/var-mixer) | 公会战排名查询 |2022-03-06 10:32:21|
 | [群管](https://github.com/pcrbot/group-manager) | [@xhl6699](https://github.com/xhl6699) | 申请头衔、设置禁言、修改群 名片等 |2020-09-24 11:26:01|
