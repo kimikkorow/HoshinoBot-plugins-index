@@ -95,7 +95,7 @@
 |[steam_crawler_botV2](https://github.com/half-ghost/steam_crawler_botV2) | [@half-ghost](https://github.com/half-ghost) | steam_crawler_bot插件第二版，新增了一些功能|2023-03-14 01:03:11|
 | [pcrjjc3](https://github.com/azmiao/pcrjjc3-tw) | [@cc004](https://github.com/cc004)[@azmiao](https://github.com/azmiao)[@CYDXDianXian](https://github.com/CYDXDianXian) | 由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询 |2023-05-14 17:28:31|
 | [图片套娃](https://github.com/watermellye/yaowoyizhi/) | [@ellye](https://github.com/watermellye) [@mahosho](https://github.com/mahosho) | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi)重构版，新增套娃和支持自定义文字。 |2022-08-01 14:36:59|
-| [合刀计算器 终极版](https://github.com/pcrbot/pcr_calculator_plus/) <!--cont.-->| [@ellye](https://github.com/watermellye) | 支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。 |2022-06-03 16:20:03|
+| [合刀计算器 终极版](https://github.com/pcrbot/pcr_calculator_plus/) | [@ellye](https://github.com/watermellye) | 支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。 |2022-06-03 16:20:03|
 | [赛马娘模拟抽卡](https://github.com/azmiao/uma_gacha) | [@azmiao](https://github.com/azmiao) | 另一个由nb插件移植而来的可自动更新的赛马娘模拟抽卡插件。马之井！冲冲冲 |2022-04-20 16:38:51|
 | [umagacha](https://github.com/assassingyk/umagacha) | [@assassingyk](https://github.com/assassingyk) | 可自动更新卡池的马娘仿真抽卡插件 |2022-04-19 14:55:50|
 | [一穿二补偿计算](https://github.com/CCA2878/Simple1kill2) | [@CCA2878](https://github.com/CCA2878) | 计算填补一穿二到底要填多少伤害。 |2022-01-25 19:34:48|
@@ -137,7 +137,7 @@
 | [色图打分](https://github.com/pcrbot/SetuScore)  | [@HMScygnet](https://github.com/HMScygnet) | 为你的色图进行打分 |2021-10-20 16:04:44|
 | [FGO日历](https://github.com/NepPure/fgo_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格FGO日历，数据源B服官网新闻 |2021-12-29 20:56:08|
 | [网页截图](https://github.com/pcrbot/pagecut) | [@G41mywaifu](https://github.com/G41mywaifu) | 发送指定网页的页面截图 |2022-11-26 16:43:35|
-| [vtbuber名单查询](https://github.com/Soung2279/vdb_list) | [@Soung2279](https://github.com/Soung2279) | 以[VTuber Database](https://github.com/dd-center/vdb)为数据来源的vtuber查询功能，查询某人是否为vtb，并给出相关信息。可模糊匹配|2021-10-26 15:12:12|
+| [vtbuber名单查询](https://github.com/Soung2279/vdb_list) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 以[VTuber Database](https://github.com/dd-center/vdb)为数据来源的vtuber查询功能，查询某人是否为vtb，并给出相关信息。可模糊匹配|2021-10-26 15:12:12|
 | [百度一下](https://github.com/Soung2279/baidu_search) | [@Soung2279](https://github.com/Soung2279) | 对 优妮 的“百度一下”功能的粗糙复现 |2021-09-20 16:09:17|
 | [可爱小七海语音♥](https://github.com/Soung2279/NANA7MI_REC) | [@Soung2279](https://github.com/Soung2279) | 是 可爱小七海 的语音♥~~ 群聊中发送 七海Nana7mi 有关的 切片语音/古神语/怪话合集/各种不能转的二创 |2021-10-30 12:19:10|
 | [hoshino广播再进化](https://github.com/azmiao/broadcast-plus-plus) | [@azmiao](https://github.com/azmiao) | 注：这个不是插件！直接拿[@冷雷佬](https://github.com/ColdThunder11)的东西改的，欸嘿嘿，我是不是很机智 |2022-09-06 17:26:34|
