@@ -22,7 +22,7 @@
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
 | [猜数字](https://github.com/daycold1000/caishuzi) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏，俗称1A2B猜谜 |2022-12-11 17:06:51|
 | [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2023-04-25 19:44:03|
-|[pcrjjc2魔改版](https://github.com/SonderXiaoming/pcrjjc_huannai)| [@SonderXiaoming](https://github.com/SonderXiaoming) |可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置）|2023-05-18 12:52:51|
+|[pcrjjc2魔改版](https://github.com/SonderXiaoming/pcrjjc_huannai)| [@SonderXiaoming](https://github.com/SonderXiaoming) |可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置）|2023-05-26 12:43:40|
 | [猜群友](https://github.com/BeiYazi0/groupguess) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的猜群友小游戏插件 |2022-10-20 19:47:30|
 | [ai对话免费版](https://github.com/joeyHXD/ai) | [@joey](https://github.com/joeyHXD) | 以原版ai对话为基础，默认使用[青云客](https://api.qingyunke.com)的api，不需要开通腾讯智能服务也能使用，并且加入了反并发 |2022-10-21 18:44:54|
 | [Ai绘图/以图绘图](https://github.com/CYDXDianXian/AI_image_gen) | [@穿越电线](https://github.com/CYDXDianXian) [@sanshanya](https://github.com/sanshanya) | 通过tag生成图片，以图生图，XP查询，每日上限与频率限制，群黑/白名单，自动屏蔽超级大群，设置屏蔽词tag等功能 |2022-11-21 15:19:44|
@@ -64,7 +64,7 @@
 | [今日老婆](https://github.com/SonderXiaoming/dailywife) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 随机抓一位群友当老婆 |2022-06-19 13:31:31|
 | [汇率查询](https://github.com/SonderXiaoming/money_exchange_rate) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 查询货币汇率，支持自定义 |2023-03-10 13:16:37|
 | [everyday_news](https://github.com/PerfBleu/everyday_news) | [@PerfBleu](https://github.com/PerfBleu) | 适用于Hoshino的每日简报 |2023-01-14 00:03:22|
-| [sysinfo-for-hoshino](https://github.com/PerfBleu/sysinfo-for-hoshino) | [@PerfBleu](https://github.com/PerfBleu) | 调用screenfetch获取系统信息 |2022-05-26 21:09:37|
+| [sysinfo-for-hoshino](https://github.com/PerfBleu/sysinfo-for-hoshino) <!--cont.-->| [@PerfBleu](https://github.com/PerfBleu) | 调用screenfetch获取系统信息 |2022-05-26 21:09:37|
 | [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2023-05-10 23:37:24|
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
 | [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2023-05-17 08:36:27|
