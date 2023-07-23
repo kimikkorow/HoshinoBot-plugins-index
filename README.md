@@ -61,19 +61,19 @@
 | [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 |2023-06-05 10:03:12|
 | [project sekai啤酒烧烤信息获取插件](https://github.com/FLAG250/hoshino-plugin-pjsk) | [@FLAG250](https://github.com/FLAG250)  | 适用于hoshinobot的pjsk信息查询插件 |2023-03-15 14:46:49|
 | [APEX Legends 制造器, 地图轮换查询](https://github.com/GaryDu0123/Apex_Stat_for_Hoshino) | [@GaryDu0123](https://github.com/GaryDu0123)  | 查询APEX Legends 当日(未来)地图轮换以及复制器物品 |2022-08-11 18:26:43|
-| [今日老婆](https://github.com/SonderXiaoming/dailywife) <!--cont.-->| [@SonderXiaoming](https://github.com/SonderXiaoming)  | 随机抓一位群友当老婆 |2022-06-19 13:31:31|
+| [今日老婆](https://github.com/SonderXiaoming/dailywife) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 随机抓一位群友当老婆 |2022-06-19 13:31:31|
 | [汇率查询](https://github.com/SonderXiaoming/money_exchange_rate) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 查询货币汇率，支持自定义 |2023-03-10 13:16:37|
 | [everyday_news](https://github.com/PerfBleu/everyday_news) | [@PerfBleu](https://github.com/PerfBleu) | 适用于Hoshino的每日简报 |2023-01-14 00:03:22|
 | [sysinfo-for-hoshino](https://github.com/PerfBleu/sysinfo-for-hoshino) | [@PerfBleu](https://github.com/PerfBleu) | 调用screenfetch获取系统信息 |2022-05-26 21:09:37|
-| [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2023-06-02 22:21:45|
+| [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2023-07-15 02:42:26|
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
 | [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2023-06-15 10:40:48|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2023-03-26 15:07:30|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2023-07-10 10:02:27|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2023-07-21 10:19:45|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
-| [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 |2023-06-28 10:16:13|
+| [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 |2023-07-17 14:38:12|
 | [yobot多人申请出刀版](https://github.com/fengjk12138/yobot) | [@fengjk12138](https://github.com/fengjk12138) | 支持多人申请出刀、更新伤害信息等操作，方便筛刀和观察进入人数 |2022-09-21 21:43:38|
 | [补偿轴计算器](https://github.com/OREOCODEDEV/pcr_time_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算返还时间下对应的时间轴 |2022-05-19 01:48:05|
 | [计算器](https://github.com/OREOCODEDEV/bot_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算群聊中的四则运算消息 |2022-04-30 14:28:51|
@@ -112,7 +112,7 @@
 | [游戏王印卡](https://github.com/N-zi/mahoo) | [@N-zi](https://github.com/N-zi) | 游戏王卡图生成 |2022-08-01 18:05:25|
 | [我朋友说](https://github.com/kosakarin/I_have_a_friend) | [@kosakarin](https://github.com/kosakarin) | 我这朋友说不定是我自己 |2022-08-22 13:27:50|
 | [在线运行代码](https://github.com/CMHopeSunshine/codeonline) | [@CMHopeSunshine](https://github.com/CMHopeSunshine) | 基于glot.io的bot运行代码插件 |2022-03-21 15:02:50|
-|[群友语录](https://github.com/kosakarin/group_quotations)| [@kosakarin](https://github.com/kosakarin) | 仿照朋友的bot写的一个上传图片到bot的功能 |2022-07-20 15:56:40|
+|[群友语录](https://github.com/kosakarin/group_quotations)<!--cont.-->| [@kosakarin](https://github.com/kosakarin) | 仿照朋友的bot写的一个上传图片到bot的功能 |2022-07-20 15:56:40|
 | [小鸡词典](https://github.com/zangxx66/jiwiki) | [@zangxx66](https://github.com/zangxx66) | 网络流行语词典，查询你不知道的那些梗或词语 |2022-06-19 10:06:19|
 | [novel_ai_kai](https://github.com/assassingyk/novel_ai_kai) | [@assassingyk](https://github.com/assassingyk) | 可分群设置key的彩云小梦小说AI续写插件 |2022-02-16 22:27:41|
 | [随机唐可可](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 别问为什么和大蟑螂放一起，只是懒得单独开一个仓库了（） |2021-12-01 10:48:17|
