@@ -121,7 +121,7 @@
 | [genshin_price](https://github.com/lhhxxxxx/genshin_price) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 查询账号估价 |2021-11-20 21:44:46|
 | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi) | [@mahosho](https://github.com/mahosho) | img\n要我一直img吗 |2022-02-13 05:57:12|
 | [飞天大蟑螂](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 发送白底有随机数量随机旋转角度的飞天大蟑螂图片，我的建议是：别用！ |2021-12-01 10:48:17|
-| [磁力链搜索](https://github.com/half-ghost/bt_search)<!--cont.-->|[@half-ghost](https://github.com/half-ghost)|磁力链搜索插件。好耶！再也不怕找不到车了！（|2023-02-22 00:41:48|
+| [磁力链搜索](https://github.com/half-ghost/bt_search)|[@half-ghost](https://github.com/half-ghost)|磁力链搜索插件。好耶！再也不怕找不到车了！（|2023-02-22 00:41:48|
 | [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo)  [@咕咕鸽](https://github.com/Adminicoder)| 通过排列组合来自定义属于自己的奥利奥吧！ |2022-08-12 08:10:25|
 | [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2023-05-07 08:37:59|
@@ -156,7 +156,7 @@
 | [picfinder_take](https://github.com/pcrbot/picfinder_take) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
 | [5000choyen](https://github.com/pcrbot/5000choyen) | [@assassingyk](https://github.com/assassingyk) | 5000兆円图片生成器（红字 白字.jpg） |2021-08-18 13:37:07|
 | [cp](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/cp) | [@scofieldle](https://github.com/scofieldle) | 土味情话小插件 |2022-06-21 09:49:47|
-| [MuseDashWiki](https://github.com/Soung2279/musewiki) | [@Soung2279](https://github.com/Soung2279) | 音游MuseDash(喵斯快跑)百科查询插件，好耶！是MD！|2022-05-15 13:20:16|
+| [MuseDashWiki](https://github.com/Soung2279/musewiki) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 音游MuseDash(喵斯快跑)百科查询插件，好耶！是MD！|2022-05-15 13:20:16|
 | [blhx_wiki](https://github.com/Gaylone/blhx_wiki) | [@Gaylone](https://github.com/Gaylone) | 碧蓝航线wiki用于获取舰船信息，立绘，推荐出装等信息 |2023-06-18 15:23:30|
 | [clanbattle_info](https://github.com/cc004/clanbattle_info) | [@cc004](https://github.com/cc004) | 公主连结国服公会战数据查询及自动报刀插件 |2023-02-23 21:36:41|
 | [market](https://github.com/cc004/market) | [@cc004](https://github.com/cc004) | hoshinobot的大头菜插件 |2022-01-21 16:22:53|
