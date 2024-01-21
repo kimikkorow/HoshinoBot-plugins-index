@@ -58,12 +58,12 @@
 | [每日番剧推送](https://github.com/benx1n/everyday-bangumi) | [@benx1n](https://github.com/benx1n)| 带大陆版权站的每日番剧查询和自动推送|2023-05-11 09:20:31|
 | [Daily_News](https://github.com/InSnocent/Daily_News) | [@InSnocent](https://github.com/InSnocent)| 适用于HoshinoBot的每日一句话新闻(和另一个插件采用的不一样的来源) |2023-11-05 19:57:40|
 | [明日方舟抽卡+蹲饼](https://github.com/xulai1001/akgacha) | [@库兰](https://github.com/xulai1001/) | 明日方舟抽卡-自动蹲饼-素材一图流和DPS查询 |2022-09-11 22:46:00|
-| [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 |2024-01-09 09:42:12|
+| [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 |2024-01-14 12:32:42|
 | [project sekai啤酒烧烤信息获取插件](https://github.com/FLAG250/hoshino-plugin-pjsk) | [@FLAG250](https://github.com/FLAG250)  | 适用于hoshinobot的pjsk信息查询插件 |2023-03-15 14:46:49|
 | [APEX Legends 制造器, 地图轮换查询](https://github.com/GaryDu0123/Apex_Stat_for_Hoshino) | [@GaryDu0123](https://github.com/GaryDu0123)  | 查询APEX Legends 当日(未来)地图轮换以及复制器物品 |2022-08-11 18:26:43|
 | [今日老婆](https://github.com/SonderXiaoming/dailywife) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 随机抓一位群友当老婆 |2022-06-19 13:31:31|
 | [汇率查询](https://github.com/SonderXiaoming/money_exchange_rate) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 查询货币汇率，支持自定义 |2023-03-10 13:16:37|
-| [everyday_news](https://github.com/PerfBleu/everyday_news) | [@PerfBleu](https://github.com/PerfBleu) | 适用于Hoshino的每日简报 |2023-01-14 00:03:22|
+| [everyday_news](https://github.com/PerfBleu/everyday_news) <!--cont.-->| [@PerfBleu](https://github.com/PerfBleu) | 适用于Hoshino的每日简报 |2023-01-14 00:03:22|
 | [sysinfo-for-hoshino](https://github.com/PerfBleu/sysinfo-for-hoshino) | [@PerfBleu](https://github.com/PerfBleu) | 调用screenfetch获取系统信息 |2022-05-26 21:09:37|
 | [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2023-12-06 12:31:21|
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
