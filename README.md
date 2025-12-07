@@ -107,7 +107,7 @@
 | [祖安宝典](https://github.com/zangxx66/zuanDictionary) | [@zangxx66](https://github.com/zangxx66) | 口吐芬芳宝典词库 |2022-01-09 02:51:53|
 | [派蒙语言库](https://github.com/3273576540/botchat) | [@Zoe新小白白白](https://github.com/3273576540) | 找了一些多多屁的语音合并到bot语言库 |2022-12-18 20:25:58|
 | [随机疯狂星期四文案](https://github.com/Nicr0n/fucking_crazy_thursday) | [@Nicr0n](https://github.com/Nicr0n) | 一个简单的随机疯狂星期四文案插件 |2022-06-24 09:53:31|
-| [幻影坦克生成器](https://github.com/kosakarin/hide_img) <!--cont.-->| [@kosakarin](https://github.com/kosakarin) | 发送两张图片生成幻影坦克 |2022-01-01 19:34:19|
+| [幻影坦克生成器](https://github.com/kosakarin/hide_img) | [@kosakarin](https://github.com/kosakarin) | 发送两张图片生成幻影坦克 |2022-01-01 19:34:19|
 | [游戏开黑](https://github.com/kosakarin/play_together) | [@kosakarin](https://github.com/kosakarin) | 辅助群内开黑，可以记录群内开了哪些车 |2022-09-28 15:27:31|
 | [游戏王印卡](https://github.com/N-zi/mahoo) | [@N-zi](https://github.com/N-zi) | 游戏王卡图生成 |2022-08-01 18:05:25|
 | [我朋友说](https://github.com/kosakarin/I_have_a_friend) | [@kosakarin](https://github.com/kosakarin) | 我这朋友说不定是我自己 |2022-08-22 13:27:50|
@@ -196,7 +196,7 @@
 | [XML卡片消息发送器](https://github.com/MiaoXia0/XMLSender) | [@MiaoXia0](https://github.com/MiaoXia0) | 使机器人发送XML卡片消息 |2021-01-30 04:49:45|
 | [女装迫害插件](https://github.com/MiaoXia0/NvZhuang) | [@MiaoXia0](https://github.com/MiaoXia0) | 发图迫害群友女装 |2021-02-09 18:25:31|
 | [PCR贵族决斗（带下注）](https://github.com/Rs794613/PcrDuel) | [@Rs794613](https://github.com/Rs794613) | 创建贵族进行俄罗斯轮盘决斗，提升爵位，抢夺公主。 |2022-06-14 17:22:04|
-| [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) | [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 |2021-02-16 20:42:37|
+| [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) <!--cont.-->| [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 |2021-02-16 20:42:37|
 | [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) |2020-12-25 00:47:55|
 | [setu_renew](https://github.com/pcrbot/setu_renew) | [@corvo007](https://github.com/corvo007) | setu_mix的改进版 |2022-08-18 19:18:04|
 | [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2023-04-11 13:30:36|
