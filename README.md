@@ -124,7 +124,7 @@
 | [磁力链搜索](https://github.com/half-ghost/bt_search)|[@half-ghost](https://github.com/half-ghost)|磁力链搜索插件。好耶！再也不怕找不到车了！（|2023-02-22 00:41:48|
 | [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo)  [@咕咕鸽](https://github.com/Adminicoder)| 通过排列组合来自定义属于自己的奥利奥吧！ |2022-08-12 08:10:25|
 | [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
-| [答案之书](https://github.com/A-kirami/answersbook) <!--cont.-->| [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2023-05-07 08:37:59|
+| [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2023-05-07 08:37:59|
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2023-05-06 19:09:35|
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2025-01-26 11:28:56|
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
@@ -154,7 +154,7 @@
 | [有道智云翻译](https://github.com/pcrbot/youdao_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
 | [reminder](https://github.com/assassingyk/reminder) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格自定义定时提醒插件（三点几了.jpg） |2021-10-26 13:36:15|
 | [picfinder_take](https://github.com/pcrbot/picfinder_take) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
-| [5000choyen](https://github.com/pcrbot/5000choyen) | [@assassingyk](https://github.com/assassingyk) | 5000兆円图片生成器（红字 白字.jpg） |2021-08-18 13:37:07|
+| [5000choyen](https://github.com/pcrbot/5000choyen) <!--cont.-->| [@assassingyk](https://github.com/assassingyk) | 5000兆円图片生成器（红字 白字.jpg） |2021-08-18 13:37:07|
 | [cp](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/cp) | [@scofieldle](https://github.com/scofieldle) | 土味情话小插件 |2022-06-21 09:49:47|
 | [MuseDashWiki](https://github.com/Soung2279/musewiki) | [@Soung2279](https://github.com/Soung2279) | 音游MuseDash(喵斯快跑)百科查询插件，好耶！是MD！|2022-05-15 13:20:16|
 | [blhx_wiki](https://github.com/Gaylone/blhx_wiki) | [@Gaylone](https://github.com/Gaylone) | 碧蓝航线wiki用于获取舰船信息，立绘，推荐出装等信息 |2023-06-18 15:23:30|
