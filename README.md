@@ -8,7 +8,7 @@
 
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
-| [犯人在跳舞](https://github.com/bridgeL/criminal_dance) <!--cont.-->| [@bridgeL](https://github.com/bridgeL/) | 文字版桌游 |2023-02-15 17:23:26|
+| [犯人在跳舞](https://github.com/bridgeL/criminal_dance) | [@bridgeL](https://github.com/bridgeL/) | 文字版桌游 |2023-02-15 17:23:26|
 | [ayaka小游戏合集](https://github.com/bridgeL/ayaka_games/) | [@bridgeL](https://github.com/bridgeL/) | ayaka小游戏合集 |2023-04-25 10:07:16|
 | [本地抽卡](https://github.com/BeiYazi0/draw-card) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的抽卡插件，卡池中图片源自于用户上传 |2023-02-12 08:06:58|
 | [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 |2024-11-29 19:55:44|
@@ -61,7 +61,7 @@
 | [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 |2024-10-04 00:53:58|
 | [project sekai啤酒烧烤信息获取插件](https://github.com/FLAG250/hoshino-plugin-pjsk) | [@FLAG250](https://github.com/FLAG250)  | 适用于hoshinobot的pjsk信息查询插件 |2023-03-15 14:46:49|
 | [APEX Legends 制造器, 地图轮换查询](https://github.com/GaryDu0123/Apex_Stat_for_Hoshino) | [@GaryDu0123](https://github.com/GaryDu0123)  | 查询APEX Legends 当日(未来)地图轮换以及复制器物品 |2022-08-11 18:26:43|
-| [今日老婆](https://github.com/SonderXiaoming/dailywife) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 随机抓一位群友当老婆 |2022-06-19 13:31:31|
+| [今日老婆](https://github.com/SonderXiaoming/dailywife) <!--cont.-->| [@SonderXiaoming](https://github.com/SonderXiaoming)  | 随机抓一位群友当老婆 |2022-06-19 13:31:31|
 | [汇率查询](https://github.com/SonderXiaoming/money_exchange_rate) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 查询货币汇率，支持自定义 |2023-03-10 13:16:37|
 | [everyday_news](https://github.com/PerfBleu/everyday_news) | [@PerfBleu](https://github.com/PerfBleu) | 适用于Hoshino的每日简报 |2023-01-14 00:03:22|
 | [sysinfo-for-hoshino](https://github.com/PerfBleu/sysinfo-for-hoshino) | [@PerfBleu](https://github.com/PerfBleu) | 调用screenfetch获取系统信息 |2022-05-26 21:09:37|
