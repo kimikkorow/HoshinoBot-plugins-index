@@ -153,7 +153,7 @@
 | [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 |2023-08-21 08:57:43|
 | [有道智云翻译](https://github.com/pcrbot/youdao_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
 | [reminder](https://github.com/assassingyk/reminder) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格自定义定时提醒插件（三点几了.jpg） |2021-10-26 13:36:15|
-| [picfinder_take](https://github.com/pcrbot/picfinder_take) <!--cont.-->| [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
+| [picfinder_take](https://github.com/pcrbot/picfinder_take) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
 | [5000choyen](https://github.com/pcrbot/5000choyen) | [@assassingyk](https://github.com/assassingyk) | 5000兆円图片生成器（红字 白字.jpg） |2021-08-18 13:37:07|
 | [cp](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/cp) | [@scofieldle](https://github.com/scofieldle) | 土味情话小插件 |2022-06-21 09:49:47|
 | [MuseDashWiki](https://github.com/Soung2279/musewiki) | [@Soung2279](https://github.com/Soung2279) | 音游MuseDash(喵斯快跑)百科查询插件，好耶！是MD！|2022-05-15 13:20:16|
@@ -225,7 +225,7 @@
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
 | [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
-| [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
+| [网页授权](https://github.com/pcrbot/pcr-auth-vue) <!--cont.-->| [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
 | [clanrank](https://github.com/pcrbot/clanrank) | [@var-mixer](https://github.com/var-mixer) | 公会战排名查询 |2022-03-06 10:32:21|
 | [群管](https://github.com/pcrbot/group-manager) | [@xhl6699](https://github.com/xhl6699) | 申请头衔、设置禁言、修改群 名片等 |2020-09-24 11:26:01|
