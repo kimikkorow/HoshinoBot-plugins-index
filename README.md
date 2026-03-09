@@ -69,7 +69,7 @@
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
 | [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2025-06-23 15:58:11|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2025-05-08 15:24:51|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2026-02-26 10:25:30|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2026-03-05 10:41:43|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
@@ -83,7 +83,7 @@
 | [股票查询](https://github.com/SonderXiaoming/stock-check) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 满足群友上班边摸鱼边炒股的要求 |2022-09-10 10:56:09|
 | [tarot_hoshino_plus](https://github.com/assassingyk/tarot_hoshino_plus) | [@assassingyk](https://github.com/assassingyk) | 增强版可自定义牌阵卡图的塔罗牌插件 |2022-04-12 10:30:49|
 | [查牌子](https://github.com/DYS763/paizi) | [@DYS763](https://github.com/DYS763) | 用uid查询B站粉丝牌与对应的主播 |2022-04-06 08:52:39|
-| [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) | [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 |2022-11-01 03:29:51|
+| [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 |2022-11-01 03:29:51|
 | [服务器信息查询（Linux版）](https://github.com/pcrbot/sys_stats_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询服务器的平台、CPU、内存、硬盘信息。Windows平台下面有更好的 |2022-04-01 16:53:00|
 | [麻将猜手牌](https://github.com/yuyumoko/mahjong-hand-guess) | [@yuyumoko](https://github.com/yuyumoko) | 麻将猜手牌小游戏~ |2022-05-24 03:26:28|
 | [插件管理](https://github.com/BlueDeer233/Hoshino-PluginManager) | [@BlueDeer233](https://github.com/BlueDeer233) | 适用于hoshinobot的简易插件管理插件，支持插件的热加载、热卸载与热重载 |2022-03-24 22:39:41|
